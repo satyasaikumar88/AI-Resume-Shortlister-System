@@ -1,0 +1,24 @@
+.states
+*.db
+__pycache__/
+.web
+assets/external/
+*.py[cod]
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Logs
+logs/
+*.log
+
+# Uploads and results (optional - uncomment if you don't want to track these)
+# uploads/
+# results/
